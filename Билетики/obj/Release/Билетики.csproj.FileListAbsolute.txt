@@ -1,0 +1,13 @@
+C:\Users\ilyay\source\repos\Билетики\Билетики\bin\Release\Билетики.exe.config
+C:\Users\ilyay\source\repos\Билетики\Билетики\bin\Release\Билетики.exe
+C:\Users\ilyay\source\repos\Билетики\Билетики\bin\Release\Билетики.pdb
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.csproj.AssemblyReference.cache
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.Form1.resources
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.Form2.resources
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.Form3.resources
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.Properties.Resources.resources
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.csproj.GenerateResource.cache
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.csproj.CoreCompileInputs.cache
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.exe
+C:\Users\ilyay\source\repos\Билетики\Билетики\obj\Release\Билетики.pdb
